@@ -18,7 +18,7 @@ function App() {
   return (
     <div className="App">
       {/* <h1 align="center">React-App</h1>  */}
-      <nav className="navbar navbar-expand-lg " style={{ backgroundColor: "#52b2bf" }}>
+      <nav className="navbar navbar-expand-lg " id ="navv"style={{ backgroundColor: "#52b2bf" }}>
         <div className="container-fluid ">
           <span className="navbar-brand text-light fw-bolder" href="#">LetsGrowMore</span>
 
